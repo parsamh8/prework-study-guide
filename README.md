@@ -1,6 +1,6 @@
 # prework-study-guide
 
-A study guide for University of Toronto pre-work courses before program begins on Sep 16, 2024.
+A study guide for the University of Toronto pre-work courses before the program begins on September 16, 2024.
 
 ## Description
 
